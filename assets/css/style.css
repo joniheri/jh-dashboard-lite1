@@ -12,12 +12,12 @@ button {
   --offcanvas-width: 280px;
   --topNavbarHeight: 56px;
 }
-.jh-bg-active{
-  border-left: 4px solid #42639E;
+.jh-bg-active {
+  border-left: 4px solid #42639e;
   /* border-left: 4px solid brown; */
   background-color: #9f9f9f;
 }
-.jh-bg-hover:hover{
+.jh-bg-hover:hover {
   background-color: #9f9f9f;
 }
 
@@ -35,7 +35,7 @@ button {
   border: 1px solid #d2d6de;
   border-radius: 5px;
   padding: 6px 12px;
-  height: 36px;;
+  height: 36px;
 }
 .select2-container--default.select2-container--open {
   border-color: #3c8dbc;
